@@ -26,6 +26,6 @@ as well as calculate premiums 💰 and manage data to ensure accurate record-kee
 - C++
 
 ## Screenshots
-![Insurance Program Screenshot](assests/images/terminal.png)
+![Insurance Program Screenshot](../assests/images/terminal.png)
 ## Author
 - Developed by My Group
