@@ -1,12 +1,12 @@
 # INSURANCE-SALES-SYSTEM 📊💻
 
-## Description
+## Description 📝
 This C++ program is designed to manage the sale of personal and pet insurance policies 🧑‍💼🐾.
 It uses a class-based structure for efficient data management 📊💻 and processing of insurance details and premiums 💵. 
 The program allows users to input, update, and track policy information 📝, 
 as well as calculate premiums 💰 and manage data to ensure accurate record-keeping 📚 and reporting 📈.
 
-## Features
+## Features 🛠️
 - Membership Registration 📝
     - Collects user information, such as name, age, and phone number 📞.
 - Points Collection System 🎯
@@ -22,10 +22,10 @@ as well as calculate premiums 💰 and manage data to ensure accurate record-kee
 - Main Menu System 🚪
 
 
-## Technologies Used
+## Technologies Used ⚙️
 - C++
 
-## Screenshots
+## Screenshots 📸
 ![Insurance Program Screenshot](assets/terminal.png)
-## Author
+## Author ✍️
 - Developed by My Group
